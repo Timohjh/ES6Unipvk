@@ -1,0 +1,4 @@
+/node_modules
+.envexample
+Procfile
+package-lock.json
